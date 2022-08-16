@@ -1,0 +1,1 @@
+D:\Learning_Personal\MAUI\MauiAppPhoneword\MauiAppPhoneword.csproj;x64
